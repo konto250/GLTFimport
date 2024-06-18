@@ -64,7 +64,7 @@
  - 揺れ物の設定
  - Shadowrampの調整
  - Eye ManagerのMaxSwingの調整
- - アバター保護の設定（SimpleAvva）
+ - アバター保護の設定（SimpleAvatarProtector）
  - GLBエクスポートする前にメモしたブレンドシェイプの設定値を、アバターに（必要なら衣装にも）、設定する
  - etc, etc...
 #### 参考
