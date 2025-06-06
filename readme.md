@@ -1,7 +1,8 @@
 
 
 この文書は時代遅れです…
-[KisaragiEffective/ResoniteImportHelper](https://github.com/KisaragiEffective/ResoniteImportHelper)を使用することを検討してください
+よりよい方法がありますので、そちらを参照してください。
+ - [Modular Avatar Resonite の使い方説明メモ](https://dinosaur-fossil.hatenablog.com/entry/2025/05/28/125047)
 
 # Modular Avatarをつかって着せ替えしたVRChatアバターをGLB化してResoniteに持ち込む試み
  - この文書は Unity 2022.3.6.f1 / VRCSDK 3.5.2 / UniGLTF-v0.121.0 を対象としている
